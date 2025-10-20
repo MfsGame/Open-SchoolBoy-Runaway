@@ -4,7 +4,7 @@ A mod by Msc_FS MOD Game
 # Schoolboy Runaway
 
 A thrilling modded game experience developed by **Linked Squard & MSC_FS Square**.
-一款由 **Linked Square & MSC_FS Square** Square** 开发的激动人心的模组游戏。
+一款由 ** MSC_FS Square** Square** 开发的的模组游戏。
 
 ---
 
@@ -46,5 +46,5 @@ This project is a mod for an existing game, built to deliver a unique "Schoolboy
 
 ## 👨‍💻 Credits / 致谢
 
-*   **Development: / 开发:** Linked Squard
+*   **Development: / 原版开发团对:** Linked Squard
 *   **Tools Used: / 使用工具:** [AssetRipper](https://github.com/AssetRipper/AssetRipper), [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
