@@ -1,10 +1,7 @@
-# Open-SchoolBoy-Runaway
-A mod by Msc_FS MOD Game
- 
-# Schoolboy Runaway
+# Open Schoolboy Runaway
 
-A thrilling modded game experience developed by **Linked Squard & MSC_FS Square**.
-一款由 ** MSC_FS Square** Square** 开发的的模组游戏。
+A thrilling modded game experience developed by **  MSC_FS**.
+一款由 ** MSC_FS ** 开发的的模组游戏。
 
 ---
 
