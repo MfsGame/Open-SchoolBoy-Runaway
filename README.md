@@ -1,10 +1,3 @@
-# Open Schoolboy Runaway
-
-A thrilling modded game experience developed by **  MSC_FS**.
-一款由 ** MSC_FS ** 开发的的模组游戏。
-
----
-
 ## 🎮 About This Project / 关于本项目
 
 This project is a mod for an existing game, built to deliver a unique "Schoolboy Runaway" adventure.
